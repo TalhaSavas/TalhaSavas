@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**TalhaSavas/TalhaSavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Maltepe University. I'm passionate about Artificial Intelligence and Data Science, and I'm constantly learning new things in these fields. 
 
-Here are some ideas to get you started:
+### 🔭 Currently working on:
+- Exploring and learning more about Artificial Intelligence and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Deepening my knowledge in AI and Data Science.
+
+### 💻 Technologies and languages I know:
+- Java, Python, C, C#, HTML, CSS
+
+### 📚 Projects:
+- [Tetris Game in Java](https://github.com/TalhaSavas/tetris-game-in-java-main)
+- [Symptom Diagnosis AI](https://github.com/TalhaSavas/symptom-diagnosis-ai-main)
+- [School Information Management](https://github.com/TalhaSavas/school-information-management/tree/main)
+
+### 📫 How to reach me:
+Feel free to reach out to me via my [GitHub profile](https://github.com/TalhaSavas).
+
+### ⚡ Fun fact:
+I'm always working on new projects to apply what I'm learning.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaSavas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSavas&layout=compact&theme=radical)
