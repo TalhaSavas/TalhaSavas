@@ -22,4 +22,5 @@ Feel free to reach out to me via my [GitHub profile](https://github.com/TalhaSav
 ### ⚡ Fun fact:
 I'm always working on new projects to apply what I'm learning.
 
-![GitHub Stats](https://camo.githubusercontent.com/51cf51371260a901bbb29865ffd8053902a5161c382401cff21b124c4c17a482/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d65727475726b6572796176757a266c61796f75743d636f6d70616374267468656d653d7261646963616c)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaSavas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSavas&layout=compact&theme=radical&langs_count=6)
