@@ -24,3 +24,4 @@ I'm always working on new projects to apply what I'm learning.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaSavas&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSavas&layout=compact&theme=radical&langs_count=10)
+,
