@@ -16,11 +16,6 @@ I'm a Software Engineering student at Maltepe University. I'm passionate about A
 - [Symptom Diagnosis AI](https://github.com/TalhaSavas/symptom-diagnosis-ai-main) - An AI-based system for diagnosing symptoms based on input data (Python-based).
 - [School Information Management](https://github.com/TalhaSavas/school-information-management/tree/main) - A system to manage school data such as student and course information (Built with Java and HTML/CSS).
 
-### 📍 Popular Repositories:
-- [Tetris Game in Java](https://github.com/TalhaSavas/tetris-game-in-java-main) - A simple Java game based on the classic Tetris.
-- [Symptom Diagnosis AI](https://github.com/TalhaSavas/symptom-diagnosis-ai-main) - AI-based symptom diagnosis system, built using Python.
-- [School Information Management](https://github.com/TalhaSavas/school-information-management/tree/main) - A Java-based project for managing school information.
-
 ### 📫 How to reach me:
 Feel free to reach out to me via my [GitHub profile](https://github.com/TalhaSavas).
 
